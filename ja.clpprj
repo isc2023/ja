@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\ja\ja.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/ja]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/ja]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\ja\indexRegistros.php"/>
+  <file name="C:\xampp\htdocs\ja\cliente\usuariosAdm.php"/>
+  <file name="C:\xampp\htdocs\ja\servidor\Busqueda.php"/>
+  <file name="C:\xampp\htdocs\ja\servidor\Señas.php"/>
+  <file name="C:\xampp\htdocs\ja\servidor\conectar.php"/>
+  <file name="C:\xampp\htdocs\ja\index.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock>
+  <todofile name="C:\xampp\htdocs\ja\AlertAjax\assets\bootstrap\js\bootstrap.js">
+   <todo name="TODO: Check whether guarding this code with this `if` is really necessary." pos="28;1575"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\assets\bootstrap\js\bootstrap.js">
+   <todo name="TODO: Check whether guarding this code with this `if` is really necessary." pos="28;1575"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\cliente\buscarcp.php">
+   <todo name="todos los resultados" pos="14;18"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\cliente\js\jquery-ui\external\jquery\jquery.js">
+   <todo name="TODO: identify versions" pos="8;809"/>
+   <todo name="TODO: identify versions" pos="7;823"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\cliente\js\jquery-ui\jquery-ui.js">
+   <todo name="TODO: remove support for widgetEventPrefix" pos="3;154"/>
+   <todo name="TODO: is this right? should we include anything with css width specified as well" pos="3;3531"/>
+   <todo name="TODO: Switch return back to widget declaration at top of file when this is removed" pos="1;18185"/>
+   <todo name="TODO: Switch return back to widget declaration at top of file when this is removed" pos="1;18682"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\js\bootstrap.bundle.js">
+   <todo name="todo (fat): these should probably be refactored out of modal.js" pos="5;5085"/>
+   <todo name="TODO (fat): remove sketch reliance on jQuery position/offset" pos="13;6367"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\js\bootstrap.js">
+   <todo name="todo (fat): these should probably be refactored out of modal.js" pos="5;2472"/>
+   <todo name="TODO (fat): remove sketch reliance on jQuery position/offset" pos="13;3754"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\lib\PHPExcel\Cell\DataType.php">
+   <todo name="TODO: Sanitize Rich-Text string (max. character count is 32,767)" pos="13;85"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\lib\PHPExcel\Reader\Excel2007.php">
+   <todo name="TODO: Autoshapes from twoCellAnchors!" pos="29;1415"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\lib\PHPExcel\Reader\Excel5.php">
+   <todo name="TODO Provide support for named values" pos="21;1215"/>
+   <todo name="todo: what if string is very long" pos="13;4164"/>
+   <todo name="todo: implement" pos="21;4680"/>
+   <todo name="TODO: Investigate structure for .xls SHEETLAYOUT record as saved by MS Office Excel 2007" pos="21;4943"/>
+   <todo name="todo: if cell range is just a single cell, should this funciton" pos="9;6958"/>
+   <todo name="TODO: if cell range is just a single cell, should this funciton" pos="9;7015"/>
+   <todo name="todo: check if we have identified the whole set of special characters" pos="21;7177"/>
+   <todo name="TODO: external sheet support" pos="21;7187"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\lib\PHPExcel\Reader\HTML.php">
+   <todo name="TODO" pos="13;222"/>
+   <todo name="TODO" pos="21;238"/>
+   <todo name="TODO" pos="37;254"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\lib\PHPExcel\Writer\Excel5\Escher.php">
+   <todo name="todo" pos="53;190"/>
+   <todo name="todo" pos="31;196"/>
+   <todo name="todo" pos="62;229"/>
+   <todo name="todo" pos="38;232"/>
+   <todo name="todo" pos="62;256"/>
+   <todo name="todo" pos="38;259"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\lib\PHPExcel\Writer\Excel5\Parser.php">
+   <todo name="TODO: use real error codes" pos="9;557"/>
+   <todo name="TODO: possible class value 0,1,2 check Formula.pm" pos="9;632"/>
+   <todo name="TODO: use real error codes" pos="13;637"/>
+   <todo name="TODO: use real error codes" pos="13;653"/>
+   <todo name="TODO: use real error codes" pos="4;725"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\lib\PHPExcel\Writer\Excel5\Workbook.php">
+   <todo name="TODO: store external SUPBOOK records and XCT and CRN records" pos="10;444"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\lib\PHPExcel\Writer\Excel5\Worksheet.php">
+   <todo name="todo CFRule &amp; CFHeader" pos="14;504"/>
+   <todo name="@todo CFRule &amp; CFHeader" pos="13;504"/>
+   <todo name="todo writeCFRule() => $blockLineStyle => Index Color for left line" pos="14;3677"/>
+   <todo name="@todo writeCFRule() => $blockLineStyle => Index Color for left line" pos="13;3677"/>
+   <todo name="todo writeCFRule() => $blockLineStyle => Index Color for right line" pos="14;3678"/>
+   <todo name="@todo writeCFRule() => $blockLineStyle => Index Color for right line" pos="13;3678"/>
+   <todo name="todo writeCFRule() => $blockLineStyle => Top-left to bottom-right on/off" pos="14;3679"/>
+   <todo name="@todo writeCFRule() => $blockLineStyle => Top-left to bottom-right on/off" pos="13;3679"/>
+   <todo name="todo writeCFRule() => $blockLineStyle => Bottom-left to top-right on/off" pos="14;3680"/>
+   <todo name="@todo writeCFRule() => $blockLineStyle => Bottom-left to top-right on/off" pos="13;3680"/>
+   <todo name="todo writeCFRule() => $blockColor => Index Color for top line" pos="14;3682"/>
+   <todo name="@todo writeCFRule() => $blockColor => Index Color for top line" pos="13;3682"/>
+   <todo name="todo writeCFRule() => $blockColor => Index Color for bottom line" pos="14;3683"/>
+   <todo name="@todo writeCFRule() => $blockColor => Index Color for bottom line" pos="13;3683"/>
+   <todo name="todo writeCFRule() => $blockColor => Index Color for diagonal line" pos="14;3684"/>
+   <todo name="@todo writeCFRule() => $blockColor => Index Color for diagonal line" pos="13;3684"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\lib\PHPExcel\Writer\HTML.php">
+   <todo name="TODO: Same for columns" pos="13;1581"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\lib\PHPExcel\Writer\OpenDocument\Cell\Comment.php">
+   <todo name="TODO: Not realized in PHPExcel_Comment yet." pos="17;56"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\phpExcel\Classes\PHPExcel\Cell\DataType.php">
+   <todo name="TODO: Sanitize Rich-Text string (max. character count is 32,767)" pos="13;85"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\phpExcel\Classes\PHPExcel\Reader\Excel2007.php">
+   <todo name="TODO: Autoshapes from twoCellAnchors!" pos="29;1415"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\phpExcel\Classes\PHPExcel\Reader\Excel5.php">
+   <todo name="TODO Provide support for named values" pos="21;1215"/>
+   <todo name="todo: what if string is very long" pos="13;4164"/>
+   <todo name="todo: implement" pos="21;4680"/>
+   <todo name="TODO: Investigate structure for .xls SHEETLAYOUT record as saved by MS Office Excel 2007" pos="21;4943"/>
+   <todo name="todo: if cell range is just a single cell, should this funciton" pos="9;6958"/>
+   <todo name="TODO: if cell range is just a single cell, should this funciton" pos="9;7015"/>
+   <todo name="todo: check if we have identified the whole set of special characters" pos="21;7177"/>
+   <todo name="TODO: external sheet support" pos="21;7187"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\phpExcel\Classes\PHPExcel\Reader\HTML.php">
+   <todo name="TODO" pos="13;222"/>
+   <todo name="TODO" pos="21;238"/>
+   <todo name="TODO" pos="37;254"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\phpExcel\Classes\PHPExcel\Writer\Excel5\Escher.php">
+   <todo name="todo" pos="53;190"/>
+   <todo name="todo" pos="31;196"/>
+   <todo name="todo" pos="62;229"/>
+   <todo name="todo" pos="38;232"/>
+   <todo name="todo" pos="62;256"/>
+   <todo name="todo" pos="38;259"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\phpExcel\Classes\PHPExcel\Writer\Excel5\Parser.php">
+   <todo name="TODO: use real error codes" pos="9;557"/>
+   <todo name="TODO: possible class value 0,1,2 check Formula.pm" pos="9;632"/>
+   <todo name="TODO: use real error codes" pos="13;637"/>
+   <todo name="TODO: use real error codes" pos="13;653"/>
+   <todo name="TODO: use real error codes" pos="4;725"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\phpExcel\Classes\PHPExcel\Writer\Excel5\Workbook.php">
+   <todo name="TODO: store external SUPBOOK records and XCT and CRN records" pos="10;444"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\phpExcel\Classes\PHPExcel\Writer\Excel5\Worksheet.php">
+   <todo name="todo CFRule &amp; CFHeader" pos="14;504"/>
+   <todo name="@todo CFRule &amp; CFHeader" pos="13;504"/>
+   <todo name="todo writeCFRule() => $blockLineStyle => Index Color for left line" pos="14;3677"/>
+   <todo name="@todo writeCFRule() => $blockLineStyle => Index Color for left line" pos="13;3677"/>
+   <todo name="todo writeCFRule() => $blockLineStyle => Index Color for right line" pos="14;3678"/>
+   <todo name="@todo writeCFRule() => $blockLineStyle => Index Color for right line" pos="13;3678"/>
+   <todo name="todo writeCFRule() => $blockLineStyle => Top-left to bottom-right on/off" pos="14;3679"/>
+   <todo name="@todo writeCFRule() => $blockLineStyle => Top-left to bottom-right on/off" pos="13;3679"/>
+   <todo name="todo writeCFRule() => $blockLineStyle => Bottom-left to top-right on/off" pos="14;3680"/>
+   <todo name="@todo writeCFRule() => $blockLineStyle => Bottom-left to top-right on/off" pos="13;3680"/>
+   <todo name="todo writeCFRule() => $blockColor => Index Color for top line" pos="14;3682"/>
+   <todo name="@todo writeCFRule() => $blockColor => Index Color for top line" pos="13;3682"/>
+   <todo name="todo writeCFRule() => $blockColor => Index Color for bottom line" pos="14;3683"/>
+   <todo name="@todo writeCFRule() => $blockColor => Index Color for bottom line" pos="13;3683"/>
+   <todo name="todo writeCFRule() => $blockColor => Index Color for diagonal line" pos="14;3684"/>
+   <todo name="@todo writeCFRule() => $blockColor => Index Color for diagonal line" pos="13;3684"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\phpExcel\Classes\PHPExcel\Writer\HTML.php">
+   <todo name="TODO: Same for columns" pos="13;1581"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\ja\reportes\phpExcel\Classes\PHPExcel\Writer\OpenDocument\Cell\Comment.php">
+   <todo name="TODO: Not realized in PHPExcel_Comment yet." pos="17;56"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+</project>
